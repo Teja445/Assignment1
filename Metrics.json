@@ -1,0 +1,13 @@
+# Sample metrics file taken fron the internet
+
+{
+  "metrics": [
+    {"time": "2023-11-01T12:00:00", "cpu_utilization": 65},
+    {"time": "2023-11-01T12:05:00", "cpu_utilization": 75},
+    {"time": "2023-11-01T12:10:00", "cpu_utilization": 85},
+    {"time": "2023-11-01T12:15:00", "cpu_utilization": 15},
+    {"time": "2023-11-01T12:20:00", "cpu_utilization": 55},
+    {"time": "2023-11-01T12:25:00", "cpu_utilization": 85},
+    {"time": "2023-11-01T12:35:00", "cpu_utilization": 95}
+  ]
+}
